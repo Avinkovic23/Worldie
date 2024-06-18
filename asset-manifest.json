@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/worldie/static/css/main.fca73f02.css",
-    "main.js": "/worldie/static/js/main.826f8703.js",
+    "main.css": "/worldie/static/css/main.9569ad52.css",
+    "main.js": "/worldie/static/js/main.03b69bd0.js",
     "static/media/worldie-logo.png": "/worldie/static/media/worldie-logo.1b3cb3788106b1088493.png",
     "index.html": "/worldie/index.html",
-    "main.fca73f02.css.map": "/worldie/static/css/main.fca73f02.css.map",
-    "main.826f8703.js.map": "/worldie/static/js/main.826f8703.js.map"
+    "main.9569ad52.css.map": "/worldie/static/css/main.9569ad52.css.map",
+    "main.03b69bd0.js.map": "/worldie/static/js/main.03b69bd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.fca73f02.css",
-    "static/js/main.826f8703.js"
+    "static/css/main.9569ad52.css",
+    "static/js/main.03b69bd0.js"
   ]
 }
